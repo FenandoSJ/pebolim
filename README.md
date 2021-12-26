@@ -1,0 +1,2 @@
+# pebolim
+Desafio do popularmente conhecido Toto, desafio proposto pela equipe do projeto NuLab, a proposta é que possamos controlar os jogadores vermelhos com as setas "P/ CIMA" e "P/ BAIXO", enquanto que os jogadores azuis rastreiam a posição da bola e recebem um valor aleatório em algumas situações especificas, tais como em caso de gol ou quando 1 deles consegue tocar a bola, esse valor  aleatório influencia diretamente nas chances de erro do jogadores azuis.
